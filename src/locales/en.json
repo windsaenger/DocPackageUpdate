@@ -1,0 +1,96 @@
+{
+  "header": {
+    "login": "Login"
+  },
+  "footer": {
+    "imprint": "Legal information",
+    "privacy-policy": "Privacy policy",
+    "terms-and-conditions": "T&Cs",
+    "company-name": "IONOS SE"
+  },
+  "edit-link": {
+    "text": "Suggest changes to this page"
+  },
+  "home-features": {
+    "overline": "Feature release presentation",
+    "title": "Deploy your <span class=\"text-ui-primary\">PHP App</span> to powerful infrastucture in a few clicks",
+    "text": "Learn how Deploy Now enables easy workflow configuration for PHP frameworks like Laravel and Symfony and get to know our team.",
+    "button": "About PHP Projects"
+  },
+  "home-hero": {
+    "h1": "Hosting, made for developers",
+    "h2": "Git push, build, deploy.",
+    "deploy-now": "Deploy now.",
+    "description": "Deploy Static Sites, Single Page Applications and PHP Apps directly via GitHub Actions to IONOS' global infrastructure.",
+    "getting-started": {
+      "title": "Getting started",
+      "text": "Connect a repo and set up a deployment"
+    },
+    "deploy-sample": {
+      "title": "Deploy a sample",
+      "text": "Sample repos for Laravel, Hugo & Co"
+    },
+    "blog": {
+      "title": "Blog",
+      "text": "The latest news from our team"
+    }
+  },
+  "home-samples": {
+    "overline": "One platform for all your projects",
+    "title": "The home for your Static Site, Single Page Application or PHP App",
+    "sample-button": "Deploy a sample",
+    "sign-up-button": "Sign up"
+  },
+  "home-team": {
+    "overline": "We are the team - We are deploy now",
+    "title": "Developed <span class=\"text-ui-primary\">just for devs:</span><br />Meet the IONOS experts behind Deploy Now",
+    "button": "Get in touch"
+  },
+  "home-workflow": {
+    "overline": "Continuous deployment &amp; easy staging",
+    "title": "The ideal workflow for you, your team and your clients",
+    "text": "Want to preview changes before they go live? Simply set up multiple feature branches as staging deployments. View changes live via a preview link before merging them back.",
+    "button": "More about staging"
+  },
+  "on-this-page": {
+    "title": "On this page"
+  },
+  "search": {
+    "title": "Search documentation",
+    "placeholder": "Search documentation...",
+    "no-results": "No results for <span class=\"font-semibold\">{query}</span>."
+  },
+  "display-mode": {
+    "toggle-dark-mode": "Toggle darkmode"
+  },
+  "about-us": {
+    "title": "Hi there!<br/>We're the <span class=\"text-ui-primary\">Deploy Now</span> team.",
+    "text": "Our company asked us to build a product that we’d use ourselves, so we did. Our mission is to connect the GitHub community to the powerful hosting platform that we engineered in-house.",
+    "ionos-title": "Who is IONOS?",
+    "ionos-text": "Headquartered in Germany, IONOS offers web hosting, domain and cloud products in Europe and North America. IONOS manages more than 8 million customer contracts and hosts over 12 million domains in its own regional data centers. Customers in all markets have access to personal 24/7 support in their own language.",
+    "feedback-title": "Feedback appreciated",
+    "feedback-text": "Got ideas, need help or missing a feature? We’re still working on Deploy Now and would love to hear what you think. Use the feedback button in the product or send an email to <a class=\"email\" href=\"mailto:deploynow-support@ionos.com\">deploynow-support@ionos.com</a>.",
+    "team-title": "Meet the team"
+  },
+  "blog": {
+    "title": "Blog",
+    "timeToRead": "{time} minute read | {time} minutes read",
+    "back": "Back to overview"
+  },
+  "404": {
+    "title": "Oh no! There is nothing here.",
+    "back": "Go back"
+  },
+  "job-offer": {
+    "team-title": "This could be you",
+    "team-subtitle": "Want to be part of the team?",
+    "banner-title": "We are hiring",
+    "banner-subtitle": "Join our team and become part of Deploy Now",
+    "banner-link": "Read more",
+    "about-us-title": "We are hiring",
+    "about-us-text": "We are looking for frontend, middleware and fullstack developers in our Karlsruhe office to drive Deploy Now further. Why are these jobs awesome? Everything is brand new and can be shaped from the beginning. All roadmap decisions are made toghether with the devs. Work with the latest tools and technologies and enjoy our beautiful new office building right new to Karlsruhe mainstation.",
+    "frontend": "Frontend Developer",
+    "full-stack": "Full Stack Developer",
+    "middleware": "Middleware Developer"
+  }
+}
